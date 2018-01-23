@@ -1,0 +1,33 @@
+/* Backgrounds for Mountain Top Travel by Daniel Wallander */
+
+body { 
+    background: rgb(228,238,229) url(bg_mt_top_watermark.gif) no-repeat center bottom fixed;
+}
+
+h1 { 
+	background: #F2F6F2 url(bg_mt_top_scenery.jpg) repeat-x left bottom;
+}
+
+#breadcrumbs {
+	background: #440044 url(bg_tree_trunks.gif) no-repeat 582px 0px;
+}
+
+#wrapper {
+	background: linear-gradient(90deg, rgb(102,110,102) 1px, rgb(229,239,230) 175px);
+}
+
+#nav a:link, #nav a:visited {
+	background: rgb(50%,55%,50%) url(bg_button_up.gif);
+}
+
+#nav a:hover, #nav a:active{
+	background: rgb(80%,89%,73%) url(bg_button_dn.gif);
+}
+
+#island-info {
+   background: rgb(66%,47%,66%) url(bg_purple_gradient.jpg) repeat-x left top;
+}
+
+#island-info h4 {
+	background: rgb(66%,47%66%) url(bg_purple_gradient.jpg) repeat-x 0px -25px;
+}

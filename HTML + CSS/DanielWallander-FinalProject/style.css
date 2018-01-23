@@ -1,0 +1,13 @@
+body {
+    background-color: #80B280;
+}
+
+h1, h2, h3 {
+    color: #0066ff;
+    font-family: AR BERKLEY;
+}
+
+p, ul, ol, dl {
+    color: #ffff1a;
+    font-family: AR BERKLEY;
+}
